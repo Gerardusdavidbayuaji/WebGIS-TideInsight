@@ -3,11 +3,17 @@ Hello everyone, this WebGIS will focus on tidal flood monitoring and mitigation.
 
 # Built with
 React.js with Vite
+
 React Router Dom
+
 Tailwind CSS
+
 Shadcn UI
+
 Axios
+
 MapBox
+
 React Map GL
 
 # TideInsight Mockup
