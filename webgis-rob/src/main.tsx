@@ -1,10 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import WebGIS from "./pages";
 import "./styles/index.css";
+import HeroSection from "./pages/company/hero-section";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
-    <WebGIS />
+    <HeroSection />
   </React.StrictMode>
 );
